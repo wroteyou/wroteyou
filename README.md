@@ -24,13 +24,6 @@ i own [confined.wtf](https://confined.wtf) · discord: @asdfkhj · telegram: [@f
 <img src="https://skillicons.dev/icons?i=git,github,vscode,robloxstudio&theme=dark">
 </details>
 
-<details>
-<summary>distros i've used</summary>
-<br>
-<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,mint&theme=dark">
-<br>
-on cachyos rn. also tumbleweed, artix, fedora, gentoo, void, manjaro
-</details>
 
 <details>
 <summary>datastores</summary>
@@ -44,9 +37,17 @@ on cachyos rn. also tumbleweed, artix, fedora, gentoo, void, manjaro
 <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare&theme=dark">
 </details>
 
+<details>
+<summary>some linux distros i've used</summary>
+<br>
+<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,mint&theme=dark">
+<br>
+on cachyos rn. also tumbleweed, artix, fedora, gentoo, void, manjaro
+</details>
+
 ### projects
 
-- [confined](https://github.com/wroteyou/confined): my biolink at [confined.wtf](https://confined.wtf). live now playing, lyrics, discord status
+- [my profile at confined](https://github.com/wroteyou/confined): my biolink at [confined.wtf](https://confined.wtf). best biolink coming soon.
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wroteyou&color=000000" align="left" />
