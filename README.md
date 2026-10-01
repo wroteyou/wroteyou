@@ -1,8 +1,10 @@
+# a quick summary of me
+
 ## hi, i'm convict
 
-studying cs & learning c++ rn. i mostly write html, ts & css, and use next.js + react for frontends. commissions are free rn, hmu.
+studying cs & learning c++ rn. i mostly write html, ts & css, and use next.js + react for frontends. commissions are free at the moment.
 
-[confined.wtf](https://confined.wtf) · discord @asdfkhj · telegram [@funddeposit](https://t.me/funddeposit) · [convict@confined.wtf](mailto:convict@confined.wtf)
+i own [confined.wtf](https://confined.wtf) · discord: @asdfkhj · telegram: [@funddeposit](https://t.me/funddeposit) · my email: [convict@confined.wtf](mailto:convict@confined.wtf)
 
 <details>
 <summary>languages</summary>
