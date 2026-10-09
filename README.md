@@ -47,7 +47,7 @@ on cachyos rn. also tumbleweed, artix, fedora, gentoo, void, manjaro
 
 ### projects
 
-- [my profile at confined](https://github.com/wroteyou/confined): my biolink at [confined.wtf](https://confined.wtf). best biolink coming soon.
+- [my profile at confined](https://github.com/wroteyou/confined): my biolink at [confined.wtf](https://confined.wtf). 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=wroteyou&color=000000" align="left" />
